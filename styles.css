@@ -1,0 +1,118 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+h3{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    color: #66BFBF;
+    font-weight: normal;
+    margin-bottom: 0;
+}
+.topcontainer{
+    background-color:black;
+    position: relative;
+}
+h1{
+    width: 30%;
+    margin: 0 auto 0 auto;
+    color: #66BFBF;
+    padding-top:10px;
+    font-family: 'Satisfy', cursive;
+    font-size: 50px;
+}
+.topcloud{
+    height:200px;
+    width:400px; 
+}
+/*
+.bottomcloud{
+    height:100px;
+    width:200px;
+    position: absolute;
+    left:50px;
+    top:200px;
+}
+
+.middlecloud{
+    height:100px;
+    width:200px;
+    position: absolute;
+    right:50px;
+    top:300px;
+}
+*/
+.mountain{
+    width:30%;
+    height:20%;
+}
+.sai{
+    width:25%;
+}
+.midcontainer{
+    margin:auto;
+    width:50%;
+    
+}
+.skills{
+    margin:auto;
+    width:50%;
+}
+.skill-img{
+    width: 25%;
+    padding-top: 20px;
+}
+.p1{
+    margin:auto 50px auto 50px;
+    padding-top: 30px;
+    line-height: 1;
+    padding-bottom: 50px;
+}
+.p{
+    padding-bottom: 40px;
+    width: 65%;
+    margin:auto;
+    padding-top: 20px;
+
+    line-height: 1;
+}
+hr{
+    border: dotted grey;
+    border-bottom: none;
+    width:15%;
+}
+.bottomcontainer{
+    padding-bottom: 20px;
+}
+.myButton {
+	background-color:#599bb3;
+	border-radius:12px;
+	border:2px solid #29668f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:18px;
+	font-weight:bold;
+	padding:20px 36px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background-color:#4cd3c2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.lastdiv{
+    padding-bottom: 20px;
+    padding-top: 30px;
+    background-color:#4cd3c2 ;
+}
+a{
+    margin:20px 10px;
+}
+a:hover{
+    color: #eaf6f6;
+}
